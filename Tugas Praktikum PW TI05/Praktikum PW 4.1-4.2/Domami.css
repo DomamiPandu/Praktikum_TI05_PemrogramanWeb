@@ -1,0 +1,161 @@
+.aku{
+    max-width: 1000px; 
+    border: 1px solid black; 
+    margin: auto; 
+    @media only screen and (max-width: 600px);
+}
+.sedang{
+    background-color: gainsboro
+}
+.belajar{
+    display: flex; 
+    align-items: center; 
+    padding: 10px; 
+    border-bottom: 1px solid black
+}
+.coding{
+    margin-right: 50px; 
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px
+}
+.sekarang{
+    display: flex; 
+    list-style-type: none; 
+    gap: 10px
+}
+.dengan{
+    margin-left: auto; 
+    display: flex; 
+    align-items: center; 
+    list-style-type: none; 
+    gap: 10px
+}
+.semangat{
+    display: flex; 
+    gap: 20px; 
+    margin-top: 100px; 
+    padding: 10px"
+}
+.besar{
+    width: 60%
+}
+.sekali{
+    display: flex; 
+    align-items: center; 
+    gap: 10px
+}
+.jadi{
+    font-size: 23px; 
+    font-weight: bolder
+}
+.harus{
+    border-top: 1px solid black; 
+    border-bottom: 1px solid black; 
+    padding-left: 10px;
+}
+.bisa{
+    list-style-type: none;
+}
+.memahami{
+    display: flex;
+}
+.setiap{
+    list-style-type: none;
+}
+.materi{
+    font-weight: bolder;
+}
+.yang{
+    color: blue;
+}
+.disampaikan{
+    color: blue" href=""
+}
+.dikelas{
+    font-weight: bolder;
+}
+.online{
+    color: blue;
+}
+.satu{
+    display: flex
+}
+.dua{
+    list-style-type: none
+}
+.tiga{
+    list-style-type: none
+}
+.empat{
+    width: 300px; 
+    height: 300px; 
+    background-color: lightgray; 
+    padding: 10px; 
+    display: grid; 
+    align-items: center
+}
+.lima{
+    width: 100%; 
+    padding: 10px 0; 
+    border-collapse: collapse
+}
+.enam{
+    padding: 10px 0
+}
+.tujuh{
+    padding: 10px 0
+}
+.delapan{
+    padding: 10px 0
+}
+.sembilan{
+    border-top: 2px solid white; 
+    padding-left: 10px; 
+    padding-top: 10px
+}
+.sepuluh{
+    border-top: 2px solid white
+}
+.a{
+    display: flex; 
+    gap: 15px; 
+    margin-bottom: 10px
+}
+.b{
+    padding: 10px 0
+}
+.c{
+    border-top: 2px solid white; 
+    padding-left: 10px; 
+    padding-top: 10px
+}
+.d{
+    border-top: 2px solid white; 
+    text-align: right; 
+    font-weight: bolder;
+}
+.e{
+    margin-top: 100px; 
+    border-top: 1px solid black; 
+    padding: 20px; 
+    display: grid; 
+    gap: 10px
+}
+.div{
+    display: flex; 
+    gap: 10px;
+}
+.baris1{
+    display: flex; gap: 5px;
+}
+.benar{
+    display: flex; 
+    align-items: center; 
+    margin-left: auto; 
+    font-weight: bolder;
+}
+.input{
+    font-weight: bolder; 
+    height: 20px;
+}

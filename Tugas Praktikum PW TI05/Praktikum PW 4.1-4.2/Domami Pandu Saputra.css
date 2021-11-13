@@ -1,0 +1,31 @@
+.contoh{
+    display: inline; 
+    float : left; 
+    margin-left :50px; 
+    margin-top:20px;
+}
+.contoh1{
+    display: inline; 
+    float:left; 
+    margin-left:20px; 
+    font-size : 17px;
+}
+.contoh2{
+    display: inline; 
+    float:right; 
+    margin-right:50px; 
+    font-size: 17px; 
+    text-align:right;
+}
+.contoh3{
+    font-size: 17px;
+}
+.contoh4{
+    float: left; 
+    margin-left:50px;
+}
+.contoh5{
+    float: right;
+    margin-right: 3%;
+
+}
